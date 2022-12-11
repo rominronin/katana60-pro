@@ -4,3 +4,6 @@
 [submodule "Type-C.pretty"]
 	path = libraries/Type-C.pretty
 	url = git@github.com:ai03-2725/Type-C.pretty.git
+[submodule "Libraries/marbastlib"]
+	path = Libraries/marbastlib
+	url = git@github.com:ebastler/marbastlib.git
