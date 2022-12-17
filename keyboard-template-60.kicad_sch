@@ -1370,6 +1370,7 @@
     )
   )
 
+
   (junction (at 353.06 127) (diameter 0) (color 0 0 0 0)
     (uuid 01cc3a25-ddee-4e21-9115-6ba167a6260d)
   )
@@ -1802,6 +1803,9 @@
   (junction (at 107.95 166.37) (diameter 0) (color 0 0 0 0)
     (uuid ebaa30c6-7dcb-4065-8a04-bf164924e1a2)
   )
+  (junction (at 133.35 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid f05cbc4f-8236-46aa-8cb6-8c14dd26e863)
+  )
   (junction (at 121.92 147.32) (diameter 0) (color 0 0 0 0)
     (uuid f0c64dfd-a104-48a4-927b-ee6bfcdfb8b6)
   )
@@ -1837,9 +1841,6 @@
   )
   (junction (at 64.77 223.52) (diameter 0) (color 0 0 0 0)
     (uuid fbcabe9f-2430-4cde-a9cf-dc72e555a29f)
-  )
-  (junction (at 133.35 137.16) (diameter 0) (color 0 0 0 0)
-    (uuid fc9ce301-bccf-42ff-8bd0-e3ac3f4d91d0)
   )
   (junction (at 133.35 166.37) (diameter 0) (color 0 0 0 0)
     (uuid fdabe493-1f5c-4ad0-9678-26b9f88a4fb5)
@@ -1885,6 +1886,10 @@
   (wire (pts (xy 95.25 38.1) (xy 95.25 52.07))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0bfb375d-0aaa-406f-9341-45c0a01ed13e)
+  )
+  (wire (pts (xy 133.35 128.27) (xy 133.35 137.16))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0e429737-1212-494c-b0d6-73577c97f846)
   )
   (wire (pts (xy 294.64 177.8) (xy 304.8 177.8))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1969,6 +1974,10 @@
   (wire (pts (xy 64.77 223.52) (xy 71.12 223.52))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2551feb9-0b89-4487-aa08-cc4a8e2f78ff)
+  )
+  (wire (pts (xy 133.35 137.16) (xy 133.35 166.37))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 263f34a1-c604-48b4-888a-1aaf0878e054)
   )
   (wire (pts (xy 115.57 176.53) (xy 128.27 176.53))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2109,10 +2118,6 @@
   (wire (pts (xy 298.45 50.8) (xy 292.1 50.8))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 4533e15d-00bc-4a0c-a859-60f43866e16e)
-  )
-  (wire (pts (xy 133.35 137.16) (xy 133.35 166.37))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 47ad7bad-445e-4cc2-9868-dc37b65f9009)
   )
   (wire (pts (xy 96.52 223.52) (xy 102.87 223.52))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2473,10 +2478,6 @@
   (wire (pts (xy 184.15 52.07) (xy 184.15 90.17))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 99eb0128-cbf0-4186-bcbb-5684166c4187)
-  )
-  (wire (pts (xy 133.35 128.27) (xy 133.35 137.16))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 9a97d1fd-cc33-48ad-a18d-cd18844c6f03)
   )
   (wire (pts (xy 171.45 52.07) (xy 171.45 90.17))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3495,7 +3496,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 193.04 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17ef84ae-2695-4724-93fa-2a883f22ddd9)
-    (property "Reference" "MX?" (id 0) (at 193.9256 208.28 0)
+    (property "Reference" "MX72-2" (id 0) (at 193.9256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 193.9256 209.55 0)
@@ -4176,7 +4177,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 78.74 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 482255ed-4646-4a5e-9984-9a49bd9bd2b6)
-    (property "Reference" "MX?" (id 0) (at 79.6256 208.28 0)
+    (property "Reference" "MX63-2" (id 0) (at 79.6256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 79.6256 209.55 0)
@@ -4498,25 +4499,6 @@
     )
     (pin "1" (uuid 9bfc7b35-5033-4dba-a581-4ec4d75c3089))
     (pin "2" (uuid 54670245-e55f-435a-8f36-5c82f61e51e0))
-  )
-
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 129.54 138.43 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 6bff14b7-7fa8-49c6-9d76-d7cb980abe95)
-    (property "Reference" "MX?" (id 0) (at 130.4256 132.08 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Value" "MX-NoLED" (id 1) (at 130.4256 133.35 0)
-      (effects (font (size 0.508 0.508)))
-    )
-    (property "Footprint" "" (id 2) (at 113.665 139.065 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 113.665 139.065 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (pin "1" (uuid 058bda12-1f32-413e-bf1f-b0eb2b1869eb))
-    (pin "2" (uuid 57fc0f1b-17ae-4c17-aa31-60aa39f00ccf))
   )
 
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 104.14 53.34 0) (unit 1)
@@ -5233,7 +5215,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 205.74 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8d6e9efb-fed1-4560-b688-d3f05d3f7096)
-    (property "Reference" "MX?" (id 0) (at 206.6256 208.28 0)
+    (property "Reference" "MX73-2" (id 0) (at 206.6256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 206.6256 209.55 0)
@@ -5462,7 +5444,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 104.14 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9dd9038e-364d-4f87-8675-edd37afc5560)
-    (property "Reference" "MX?" (id 0) (at 105.0256 208.28 0)
+    (property "Reference" "MX65-2" (id 0) (at 105.0256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 105.0256 209.55 0)
@@ -5481,7 +5463,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 91.44 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a11053e4-9eea-4e3c-beb1-319c66cc54d2)
-    (property "Reference" "MX?" (id 0) (at 92.3256 208.28 0)
+    (property "Reference" "MX64-2" (id 0) (at 92.3256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 92.3256 209.55 0)
@@ -5592,7 +5574,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 154.94 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a8b3e0bc-cfe9-4e81-954e-c1b4323435ec)
-    (property "Reference" "MX?" (id 0) (at 155.8256 132.08 0)
+    (property "Reference" "MX39-2" (id 0) (at 155.8256 132.08 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 155.8256 133.35 0)
@@ -6000,7 +5982,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 180.34 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cc00687e-3426-4703-8265-70584ca7426c)
-    (property "Reference" "MX?" (id 0) (at 181.2256 208.28 0)
+    (property "Reference" "MX71-2" (id 0) (at 181.2256 208.28 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 181.2256 209.55 0)
@@ -6605,6 +6587,25 @@
     (pin "2" (uuid 06362abc-4146-4dc8-887d-7fb162e90629))
   )
 
+  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 129.54 138.43 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid f5c00a1c-6009-46f7-bb45-59e86d627cba)
+    (property "Reference" "MX38-2" (id 0) (at 130.4256 132.08 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "MX-NoLED" (id 1) (at 130.4256 133.35 0)
+      (effects (font (size 0.508 0.508)))
+    )
+    (property "Footprint" "" (id 2) (at 113.665 139.065 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 113.665 139.065 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (pin "1" (uuid 3d99968d-af00-4249-bfc1-145c2fed69c0))
+    (pin "2" (uuid 63bd9880-297f-47ed-8267-5d0be88d0b52))
+  )
+
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 91.44 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f789e8e8-c3c1-4468-9f09-3bf42b55a17b)
@@ -7192,8 +7193,14 @@
     (path "/bc635ae1-62e8-4e0b-b9cd-f1b0fba951d8"
       (reference "MX38") (unit 1) (value "MX-NoLED") (footprint "")
     )
+    (path "/f5c00a1c-6009-46f7-bb45-59e86d627cba"
+      (reference "MX38-2") (unit 1) (value "MX-NoLED") (footprint "")
+    )
     (path "/75294b3a-bcf4-4dee-b1b0-009fd10bd357"
       (reference "MX39") (unit 1) (value "MX-NoLED") (footprint "")
+    )
+    (path "/a8b3e0bc-cfe9-4e81-954e-c1b4323435ec"
+      (reference "MX39-2") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/f1689421-be27-441f-a091-cda9d302f953"
       (reference "MX40") (unit 1) (value "MX-NoLED") (footprint "")
@@ -7267,11 +7274,20 @@
     (path "/fa528344-9af6-4dff-95c8-e1dd70967e18"
       (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "")
     )
+    (path "/482255ed-4646-4a5e-9984-9a49bd9bd2b6"
+      (reference "MX63-2") (unit 1) (value "MX-NoLED") (footprint "")
+    )
     (path "/257a1eb5-8b33-4e19-9433-ae3ccc490c1b"
       (reference "MX64") (unit 1) (value "MX-NoLED") (footprint "")
     )
+    (path "/a11053e4-9eea-4e3c-beb1-319c66cc54d2"
+      (reference "MX64-2") (unit 1) (value "MX-NoLED") (footprint "")
+    )
     (path "/f2b5c4c7-e8e3-425d-a843-998f7557575d"
       (reference "MX65") (unit 1) (value "MX-NoLED") (footprint "")
+    )
+    (path "/9dd9038e-364d-4f87-8675-edd37afc5560"
+      (reference "MX65-2") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/aa9bb9c5-7107-46ce-943c-1c67b0dac064"
       (reference "MX67") (unit 1) (value "MX-NoLED") (footprint "")
@@ -7285,41 +7301,26 @@
     (path "/2db2779d-a5fd-464e-b5ae-8e46bd29d16e"
       (reference "MX71") (unit 1) (value "MX-NoLED") (footprint "")
     )
+    (path "/cc00687e-3426-4703-8265-70584ca7426c"
+      (reference "MX71-2") (unit 1) (value "MX-NoLED") (footprint "")
+    )
     (path "/a5e39449-0e3c-481c-85ad-81aa53ee1534"
       (reference "MX72") (unit 1) (value "MX-NoLED") (footprint "")
     )
+    (path "/17ef84ae-2695-4724-93fa-2a883f22ddd9"
+      (reference "MX72-2") (unit 1) (value "MX-NoLED") (footprint "")
+    )
     (path "/7db44cd6-4b9c-480e-9b0e-1b044e3ad474"
       (reference "MX73") (unit 1) (value "MX-NoLED") (footprint "")
+    )
+    (path "/8d6e9efb-fed1-4560-b688-d3f05d3f7096"
+      (reference "MX73-2") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/51589e35-00f2-4091-89f7-be519ee6b00c"
       (reference "MX74") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/8d58ad61-9517-471b-8906-a37bacc4a2bf"
       (reference "MX75") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/17ef84ae-2695-4724-93fa-2a883f22ddd9"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/482255ed-4646-4a5e-9984-9a49bd9bd2b6"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/6bff14b7-7fa8-49c6-9d76-d7cb980abe95"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/8d6e9efb-fed1-4560-b688-d3f05d3f7096"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/9dd9038e-364d-4f87-8675-edd37afc5560"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/a11053e4-9eea-4e3c-beb1-319c66cc54d2"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/a8b3e0bc-cfe9-4e81-954e-c1b4323435ec"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
-    )
-    (path "/cc00687e-3426-4703-8265-70584ca7426c"
-      (reference "MX?") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/decb3101-6255-4ab9-8fbc-5a7cad6b1f9e"
       (reference "R1") (unit 1) (value "10k") (footprint "")
