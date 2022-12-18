@@ -3500,7 +3500,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 232.0256 124.46 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 215.265 130.175 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.25u" (id 2) (at 215.265 130.175 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 215.265 130.175 0)
@@ -4761,7 +4761,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 232.0256 86.36 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 215.265 92.075 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.5u" (id 2) (at 215.265 92.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 215.265 92.075 0)
@@ -4891,7 +4891,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 54.2256 124.46 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 37.465 130.175 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.25u" (id 2) (at 37.465 130.175 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 37.465 130.175 0)
@@ -5317,7 +5317,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 155.8256 200.66 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 139.065 206.375 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers" (id 2) (at 139.065 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 139.065 206.375 0)
@@ -5714,7 +5714,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 155.8256 238.76 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 139.065 244.475 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.25u" (id 2) (at 139.065 244.475 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 139.065 244.475 0)
@@ -5733,7 +5733,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 130.4256 200.66 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 113.665 206.375 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers" (id 2) (at 113.665 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 113.665 206.375 0)
@@ -6046,7 +6046,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 143.1256 200.66 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 126.365 206.375 0)
+    (property "Footprint" "MX_Only:MXOnly-7U-Hotswap-ReversedStabilizers" (id 2) (at 126.365 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 126.365 206.375 0)
@@ -6233,7 +6233,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 54.2256 86.36 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 37.465 92.075 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.5u" (id 2) (at 37.465 92.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 37.465 92.075 0)
@@ -6730,7 +6730,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 130.4256 238.76 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 113.665 244.475 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.25u" (id 2) (at 113.665 244.475 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 113.665 244.475 0)
@@ -7274,7 +7274,7 @@
       (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/d4c76eb2-9122-4b60-8eec-75bea5916d41"
-      (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.5u")
     )
     (path "/bfda9747-3b34-42c3-89a0-4dc5335260c8"
       (reference "MX17") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -7313,10 +7313,10 @@
       (reference "MX29") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/734bbb5b-babe-4da2-9c4e-9ebe2feb8451"
-      (reference "MX30") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX30") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.5u")
     )
     (path "/7b09b66a-a34b-4017-bbe5-7e28253560b5"
-      (reference "MX31") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX31") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.25u")
     )
     (path "/70703aa5-aaca-407c-bfe9-f463acb6fa92"
       (reference "MX32") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -7337,13 +7337,13 @@
       (reference "MX37") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/f5c00a1c-6009-46f7-bb45-59e86d627cba"
-      (reference "MX37-2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX37-2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.25u")
     )
     (path "/75294b3a-bcf4-4dee-b1b0-009fd10bd357"
       (reference "MX39") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/a8b3e0bc-cfe9-4e81-954e-c1b4323435ec"
-      (reference "MX39-2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX39-2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.25u")
     )
     (path "/f1689421-be27-441f-a091-cda9d302f953"
       (reference "MX40") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -7361,7 +7361,7 @@
       (reference "MX44") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/0ee3383b-8e47-46b6-8e72-55ec8b5137dc"
-      (reference "MX45") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX45") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1.25u")
     )
     (path "/ee446c0b-bb2b-4447-b392-0b8c55688757"
       (reference "MX46") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -7433,13 +7433,13 @@
       (reference "MX65-2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/aa9bb9c5-7107-46ce-943c-1c67b0dac064"
-      (reference "MX67") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX67") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers")
     )
     (path "/c1e7ca15-af91-456b-a202-98152f66bbe7"
-      (reference "MX68") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX68") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-7U-Hotswap-ReversedStabilizers")
     )
     (path "/8ca5cf8c-0822-409e-b7ef-b0d5ace2b528"
-      (reference "MX69") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "MX69") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers")
     )
     (path "/2db2779d-a5fd-464e-b5ae-8e46bd29d16e"
       (reference "MX71") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
