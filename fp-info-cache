@@ -1,4 +1,4 @@
-20920078354318034
+20921750167004082
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87478,6 +87478,13 @@ locallib
 0
 18
 5
+locallib
+60_Outline_Non_Floating
+
+
+0
+4
+1
 marbastlib-mx
 LED_MX_3mm
 Add-on for regular MX-footprints with 3mm LED
