@@ -55,7 +55,26 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|189914428|127585572|b4e7093e-e7d1-4673-882f-a301ce99f8ec|cbc4ad71-446e-4f13-99c8-e9fa58824f62",
+        "copper_edge_clearance|192087500|125450000|3b680f4e-9325-49b7-b67b-e2084954df18|bef8841e-1c27-4e31-ae53-18ca9d70bd4b",
+        "copper_edge_clearance|193350000|125450000|3b680f4e-9325-49b7-b67b-e2084954df18|af8ff111-1ccd-4409-8a03-9b21fe384413",
+        "copper_edge_clearance|255140000|163560000|2d2ab487-9a9f-45d3-8ab4-927e73070248|94cb23f2-54f1-41e5-ae01-056eaf1bc855",
+        "courtyards_overlap|187468751|120000001|5b681428-0156-4f95-959d-742141059783|f5131d6e-cde2-4fe0-bcf3-986d73b53dce",
+        "courtyards_overlap|213662501|120000001|05baea28-5713-418c-8c75-49c5af14beaf|15a6eee2-f4ab-45d7-a4ff-b2ee1ec315e8",
+        "hole_clearance|189388750|127000000|cbc4ad71-446e-4f13-99c8-e9fa58824f62|b3abec02-5ed4-4d9d-a858-dd337f644a7b",
+        "hole_clearance|197167500|127000000|01863536-3cd7-4314-a882-744c4bfd70a4|102957dd-e6a0-4c97-a74c-94dd996fbc79",
+        "hole_clearance|218281250|127000000|80ec11c7-f201-457c-9322-eb7bc10d95cd|334a6db2-d8e5-4219-98e4-2ef8c5df9b67",
+        "hole_clearance|220662500|127000000|eab0e73e-62e0-41ab-b405-b3f7623d58c1|346c516c-973b-43c7-b5e9-c117833b72d0",
+        "hole_near_hole|189388750|127000000|cbc4ad71-446e-4f13-99c8-e9fa58824f62|bef8841e-1c27-4e31-ae53-18ca9d70bd4b",
+        "hole_near_hole|194468750|127000000|af8ff111-1ccd-4409-8a03-9b21fe384413|102957dd-e6a0-4c97-a74c-94dd996fbc79",
+        "hole_near_hole|194468750|127000000|af8ff111-1ccd-4409-8a03-9b21fe384413|bef8841e-1c27-4e31-ae53-18ca9d70bd4b",
+        "hole_near_hole|215582500|127000000|8b29afba-bee2-4f0a-842e-5884d54939eb|334a6db2-d8e5-4219-98e4-2ef8c5df9b67",
+        "hole_near_hole|216852500|124460000|80ec11c7-f201-457c-9322-eb7bc10d95cd|334a6db2-d8e5-4219-98e4-2ef8c5df9b67",
+        "hole_near_hole|220662500|127000000|eab0e73e-62e0-41ab-b405-b3f7623d58c1|334a6db2-d8e5-4219-98e4-2ef8c5df9b67",
+        "hole_near_hole|220662500|127000000|eab0e73e-62e0-41ab-b405-b3f7623d58c1|346c516c-973b-43c7-b5e9-c117833b72d0",
+        "hole_near_hole|220662500|127000000|eab0e73e-62e0-41ab-b405-b3f7623d58c1|a119e4ad-2565-45e3-babe-ab6f2cf017cb"
+      ],
       "meta": {
         "version": 2
       },
@@ -379,7 +398,6 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+5V",
           "GND",
           "VCC"
         ],
