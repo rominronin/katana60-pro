@@ -5181,7 +5181,7 @@
     (property "Reference" "U1" (id 0) (at 357.6194 127 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "ATmega32U4-A" (id 1) (at 357.6194 129.54 0)
+    (property "Value" "ATmega32U4-M" (id 1) (at 357.6194 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm" (id 2) (at 355.6 81.28 0)
@@ -7265,7 +7265,7 @@
       (reference "SW1") (unit 1) (value "SW_Reset") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
     )
     (path "/8f23a140-c156-4f64-9135-bcb6da80523f"
-      (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm")
+      (reference "U1") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm")
     )
     (path "/2076acef-cfa0-402e-a6ee-3842e4b9bc8e"
       (reference "U2") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
