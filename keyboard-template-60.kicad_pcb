@@ -12959,7 +12959,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/Libraries/BM04B-ACHFKS-GACN-ETF.STEP"
+    (model "${KIPRJMOD}/Libraries/JST/BM04B-ACHFKS-GACN-ETF.STEP"
       (offset (xyz 0 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 -180 180))
