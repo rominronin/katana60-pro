@@ -3191,7 +3191,7 @@
     (property "Value" "Conn_01x04_MountingPin" (id 1) (at 358.14 204.8255 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 355.6 201.93 0)
+    (property "Footprint" "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical" (id 2) (at 355.6 201.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 355.6 201.93 0)
@@ -7022,7 +7022,7 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "marbastlib-various:USB_C_Receptacle_HRO_TYPE-C-31-M-14")
     )
     (path "/08e6d373-2bf3-4f1e-87e0-beb65fb65c5f"
-      (reference "J2") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical")
     )
     (path "/bb3a180f-cdbc-49d0-97a9-6846eb214c84"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
