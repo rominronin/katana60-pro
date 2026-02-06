@@ -8,3 +8,6 @@
 	path = Libraries/marbastlib
 	url = git@github.com:ebastler/marbastlib.git
 	branch = untested
+[submodule "Libraries/ssbb_kicad_parts"]
+	path = Libraries/ssbb_kicad_parts
+	url = git@github.com:ssbb/ssbb_kicad_parts.git

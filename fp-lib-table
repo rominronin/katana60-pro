@@ -6,4 +6,5 @@
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/footprints/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/Libraries/locallib.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-plate-mx")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/footprints/marbastlib-xp-plate-mx.pretty")(options "")(descr ""))
+  (lib (name "ssbb_parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ssbb_kicad_parts/ssbb_parts.pretty")(options "")(descr ""))
 )

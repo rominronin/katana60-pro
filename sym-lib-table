@@ -1,6 +1,8 @@
 (sym_lib_table
+  (version 7)
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/Libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "ssbb_parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ssbb_kicad_parts/ssbb_parts.kicad_sym")(options "")(descr ""))
 )
