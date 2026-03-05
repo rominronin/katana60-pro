@@ -5961,6 +5961,12 @@
 		(uuid "d29f89ba-3b29-421a-bb7c-8b492499ce40")
 	)
 	(junction
+		(at 321.31 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d53071c7-eb53-43a8-a909-78eab9b62ebf")
+	)
+	(junction
 		(at 179.07 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6746,6 +6752,16 @@
 	)
 	(wire
 		(pts
+			(xy 321.31 54.61) (xy 332.74 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "361e0ab4-3ba2-41fa-9e48-6e7ad3432f5a")
+	)
+	(wire
+		(pts
 			(xy 278.13 184.15) (xy 290.83 184.15)
 		)
 		(stroke
@@ -6783,6 +6799,16 @@
 			(type default)
 		)
 		(uuid "3e611e69-d2ce-4d61-851d-318121b89ea5")
+	)
+	(wire
+		(pts
+			(xy 337.82 49.53) (xy 321.31 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "413836e6-1720-4ac6-a18a-504878203ca7")
 	)
 	(wire
 		(pts
@@ -6973,6 +6999,16 @@
 			(type default)
 		)
 		(uuid "5a72b79d-af43-4b26-9f41-77820791082b")
+	)
+	(wire
+		(pts
+			(xy 321.31 49.53) (xy 321.31 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ad9fb67-a0a2-446f-bc19-0ac0c5d8194e")
 	)
 	(wire
 		(pts
@@ -8286,6 +8322,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 54.61) (xy 337.82 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4f2cafb-3361-4612-97d9-1ab18ebd8fe2")
+	)
+	(wire
+		(pts
 			(xy 107.95 166.37) (xy 107.95 204.47)
 		)
 		(stroke
@@ -9092,7 +9138,7 @@
 	)
 	(global_label "COL6"
 		(shape input)
-		(at 374.65 85.09 0)
+		(at 374.65 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9102,7 +9148,7 @@
 		)
 		(uuid "67e6affb-833d-4a02-b117-15a3cf022861")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 381.9012 85.1694 0)
+			(at 381.9012 80.0894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9708,7 +9754,7 @@
 	)
 	(global_label "COL7"
 		(shape input)
-		(at 374.65 80.01 0)
+		(at 374.65 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9718,7 +9764,7 @@
 		)
 		(uuid "e98e5c9b-c4a6-4665-923e-c61748b67514")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 381.9012 80.0894 0)
+			(at 381.9012 85.1694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
