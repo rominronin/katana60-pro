@@ -10,4 +10,4 @@
 	branch = untested
 [submodule "Libraries/ssbb_kicad_parts"]
 	path = Libraries/ssbb_kicad_parts
-	url = git@github.com:ssbb/ssbb_kicad_parts.git
+	url = git@github.com:rominronin/ssbb_kicad_parts.git
