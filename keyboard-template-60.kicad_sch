@@ -5395,6 +5395,284 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "ssbb_parts:TP_Sprintek_SK8707–01"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U3"
+				(at 0 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SK8707-01"
+				(at 0 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ssbb_parts:TP_Sprintek_SK8707-01_reversible"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TP_Sprintek_SK8707–01_1_1"
+				(rectangle
+					(start -11.43 11.43)
+					(end 11.43 -11.43)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 -1.27 0)
+					(length 2.54)
+					(name "S_VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 -3.81 0)
+					(length 2.54)
+					(name "S_GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 -6.35 0)
+					(length 2.54)
+					(name "S_Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 -8.89 0)
+					(length 2.54)
+					(name "S_X"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 13.97 8.89 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 6.35 180)
+					(length 2.54)
+					(name "DATA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 3.81 180)
+					(length 2.54)
+					(name "CLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 13.97 1.27 180)
+					(length 2.54)
+					(name "RST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 13.97 -1.27 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 -3.81 180)
+					(length 2.54)
+					(name "BTN_LEFT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 -6.35 180)
+					(length 2.54)
+					(name "BTN_MIDDLE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 -8.89 180)
+					(length 2.54)
+					(name "BTN_RIGHT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 332.74 57.15)
@@ -6327,24 +6605,12 @@
 		(uuid "ff50e8d0-be25-4e19-bc3b-ce9da6dd2c41")
 	)
 	(no_connect
-		(at 287.02 219.71)
-		(uuid "0c7ca09b-b27e-4283-b004-a53a0217fa1d")
-	)
-	(no_connect
-		(at 287.02 217.17)
-		(uuid "142737aa-4db0-4582-96be-6b373b9c8067")
-	)
-	(no_connect
 		(at 358.14 173.99)
 		(uuid "2aa2750b-e680-4eee-a7bb-2118708cebc2")
 	)
 	(no_connect
 		(at 344.17 62.23)
 		(uuid "7127bab4-daa0-45f9-b720-c6e0163228be")
-	)
-	(no_connect
-		(at 287.02 222.25)
-		(uuid "719575c1-bf52-4462-ac93-4e2ab4cd0611")
 	)
 	(no_connect
 		(at 283.21 67.31)
@@ -6357,10 +6623,6 @@
 	(no_connect
 		(at 316.23 220.98)
 		(uuid "b08c91b9-8909-4468-8744-7319dc8016a8")
-	)
-	(no_connect
-		(at 287.02 224.79)
-		(uuid "d85e5236-fc77-44c4-8af9-15c8c0a02069")
 	)
 	(no_connect
 		(at 316.23 226.06)
@@ -6676,6 +6938,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 231.14) (xy 271.78 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2643c684-b3d0-4c78-8073-40b279eb55d9")
+	)
+	(wire
+		(pts
 			(xy 115.57 176.53) (xy 128.27 176.53)
 		)
 		(stroke
@@ -6936,6 +7208,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 223.52) (xy 299.72 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dc6e08d-693f-4ad7-accf-21766594f64a")
+	)
+	(wire
+		(pts
 			(xy 234.95 166.37) (xy 234.95 204.47)
 		)
 		(stroke
@@ -6986,6 +7268,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 223.52) (xy 271.78 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "458d7587-6238-4ff5-a581-6611666919e0")
+	)
+	(wire
+		(pts
 			(xy 102.87 62.23) (xy 90.17 62.23)
 		)
 		(stroke
@@ -6993,6 +7285,16 @@
 			(type default)
 		)
 		(uuid "485d6b72-a7f1-44ca-80eb-a51e122858a6")
+	)
+	(wire
+		(pts
+			(xy 261.62 226.06) (xy 271.78 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48a6f637-f301-44d6-9687-605f6e400f9c")
 	)
 	(wire
 		(pts
@@ -7033,6 +7335,16 @@
 			(type default)
 		)
 		(uuid "4ce55e5e-1bfc-4c68-958f-77c7907bcebb")
+	)
+	(wire
+		(pts
+			(xy 311.15 215.9) (xy 304.8 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d09db9e-9c6e-46cb-857c-0e51bba34a47")
 	)
 	(wire
 		(pts
@@ -7153,6 +7465,16 @@
 			(type default)
 		)
 		(uuid "5a72b79d-af43-4b26-9f41-77820791082b")
+	)
+	(wire
+		(pts
+			(xy 304.8 215.9) (xy 304.8 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a9ceccc-73ad-4b1e-821d-1bf6a072bac7")
 	)
 	(wire
 		(pts
@@ -7393,6 +7715,16 @@
 			(type default)
 		)
 		(uuid "74a808ba-5b8d-42de-8516-e7efff483139")
+	)
+	(wire
+		(pts
+			(xy 299.72 213.36) (xy 311.15 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75323ce1-532a-44ff-88f3-152168d1a960")
 	)
 	(wire
 		(pts
@@ -7653,6 +7985,16 @@
 			(type default)
 		)
 		(uuid "8b2f203e-02e2-44dd-b572-074d46202b03")
+	)
+	(wire
+		(pts
+			(xy 261.62 228.6) (xy 271.78 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ba45611-f1c2-4658-9cad-d3635cd52239")
 	)
 	(wire
 		(pts
@@ -13984,7 +14326,7 @@
 	)
 	(symbol
 		(lib_id "ssbb_parts:TP_Sprintek_SK8707-01_Sensor")
-		(at 279.4 220.98 0)
+		(at 254 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13993,7 +14335,7 @@
 		(fields_autoplaced yes)
 		(uuid "4983cb32-a082-46b3-b5e9-8b0e51122599")
 		(property "Reference" "U3"
-			(at 279.4 209.55 0)
+			(at 254 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14001,15 +14343,15 @@
 			)
 		)
 		(property "Value" "TP_Sprintek_SK8707-01_Sensor"
-			(at 279.4 212.09 0)
+			(at 254 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ssbb_parts:TP_Sprintek_SK8707-01-005_Sensor_reversible"
-			(at 279.4 220.98 0)
+		(property "Footprint" "ssbb_parts:TP_Sprintek_SK8707-01-008_Sensor"
+			(at 254 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14018,7 +14360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.4 220.98 0)
+			(at 254 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14027,7 +14369,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.4 220.98 0)
+			(at 254 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23725,6 +24067,104 @@
 			(project ""
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ssbb_parts:TP_Sprintek_SK8707–01")
+		(at 285.75 222.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f585672f-67ed-4f0e-a191-b00d94a392c6")
+		(property "Reference" "U4"
+			(at 285.75 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK8707-01"
+			(at 285.75 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ssbb_parts:TP_Sprintek_SK8707-01_reversible"
+			(at 285.75 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 285.75 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 285.75 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c520d4a4-9f8d-4254-b7f6-4fa1a0cb3b0a")
+		)
+		(pin "4"
+			(uuid "28e693d3-4773-4379-9bed-75e1c67f11a5")
+		)
+		(pin "12"
+			(uuid "8a60ac3a-0535-43e1-9f91-e89544816036")
+		)
+		(pin "6"
+			(uuid "310b7884-a6ec-400a-a7b4-181576847817")
+		)
+		(pin "5"
+			(uuid "dd459fd0-95fc-4efb-aecf-c5375873a5ec")
+		)
+		(pin "2"
+			(uuid "2b52410d-1307-4ae4-9663-7f55818b099d")
+		)
+		(pin "3"
+			(uuid "fa9036d8-f744-4d14-bf7e-6e18dd6a816a")
+		)
+		(pin "11"
+			(uuid "df1dc4ba-c69c-4df7-b015-ce0ac7c4fdd6")
+		)
+		(pin "10"
+			(uuid "ab29a787-e174-4a16-a058-a594d3aeb3fd")
+		)
+		(pin "9"
+			(uuid "bb104bc2-c504-4137-bbcc-09c5c8dedaa4")
+		)
+		(pin "7"
+			(uuid "f06dee07-fbee-4d62-9b0f-c9d26a8366c7")
+		)
+		(pin "8"
+			(uuid "d80d9b70-5a09-44a0-b256-9e30dbd09040")
+		)
+		(instances
+			(project ""
+				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
+					(reference "U4")
 					(unit 1)
 				)
 			)
