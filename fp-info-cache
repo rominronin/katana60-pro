@@ -1,4 +1,4 @@
-886601325951331
+890148521566936
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -111349,6 +111349,13 @@ TP_Sensor_Connector_reversible
 8
 4
 ssbb_parts
+TP_Sprintek_SK8707-01
+
+
+0
+12
+12
+ssbb_parts
 TP_Sprintek_SK8707-01-005_Sensor_reversible
 
 
@@ -111367,8 +111374,15 @@ TP_Sprintek_SK8707-01-008_Sensor
 
 
 0
-2
-1
+6
+5
+ssbb_parts
+TP_Sprintek_SK8707-01_Sensor
+
+
+0
+10
+5
 ssbb_parts
 TP_Sprintek_SK8707-01_Sensor_reversible
 
