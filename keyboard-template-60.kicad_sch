@@ -10045,7 +10045,7 @@
 			(uuid "7ce7b49f-840b-4a68-90f6-2b95c79592fe")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D18")
 					(unit 1)
@@ -10113,7 +10113,7 @@
 			(uuid "ff7e0f29-2845-4dce-9ff7-62e680cc23f2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D11")
 					(unit 1)
@@ -10188,7 +10188,7 @@
 			(uuid "e66010e5-0641-465f-8d7b-00faf9014bb9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "J2")
 					(unit 1)
@@ -10255,7 +10255,7 @@
 			(uuid "aa46f1e0-b7b2-4563-ad04-36b7b4a5f391")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX25")
 					(unit 1)
@@ -10323,7 +10323,7 @@
 			(uuid "a3b82ed8-d2ab-4d45-86a8-afb1fa99bfc6")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D35")
 					(unit 1)
@@ -10457,7 +10457,7 @@
 			(uuid "abcf988f-9f78-4fca-ac64-64bf12e9f06a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR07")
 					(unit 1)
@@ -10525,7 +10525,7 @@
 			(uuid "7710db89-b1e9-448f-b9a7-3767292f60b2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D40")
 					(unit 1)
@@ -10593,7 +10593,7 @@
 			(uuid "2c51ce84-93cf-4266-8e5c-49e572653614")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D26")
 					(unit 1)
@@ -10660,7 +10660,7 @@
 			(uuid "8653bf8d-1512-45c7-9bb3-e8aff64a2227")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C1")
 					(unit 1)
@@ -10728,7 +10728,7 @@
 			(uuid "03700467-cbf4-4f05-8df3-0cb0212ccd96")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D15")
 					(unit 1)
@@ -10795,7 +10795,7 @@
 			(uuid "de19f994-29b6-4aff-9b60-502fef61fb00")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX45")
 					(unit 1)
@@ -10862,7 +10862,7 @@
 			(uuid "6de9b5fc-ad2c-49f0-995c-a5486168c45e")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX12")
 					(unit 1)
@@ -10994,7 +10994,7 @@
 			(uuid "bd4151bc-013d-414a-95fa-1238f21f202b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX2")
 					(unit 1)
@@ -11058,7 +11058,7 @@
 			(uuid "31438b37-1d66-41c5-912a-2e58c5477e51")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR06")
 					(unit 1)
@@ -11125,7 +11125,7 @@
 			(uuid "1ca46f41-6e92-4915-9a59-0402bfe88ca4")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX52")
 					(unit 1)
@@ -11193,7 +11193,7 @@
 			(uuid "7f8de30d-2281-4bda-bbd9-22f4ce233d3a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "F1")
 					(unit 1)
@@ -11260,7 +11260,7 @@
 			(uuid "79415be7-cd67-4d3c-8b22-5dd605a8493e")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX19")
 					(unit 1)
@@ -11327,7 +11327,7 @@
 			(uuid "b4d563c9-dc47-4905-9c56-872e84f1e353")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX54")
 					(unit 1)
@@ -11395,7 +11395,7 @@
 			(uuid "f32b7f06-b2a3-407d-882a-42f2c2aaf58d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D5")
 					(unit 1)
@@ -11460,7 +11460,7 @@
 			(uuid "4dce9041-d0f3-4875-8bf1-6cbedef7c45f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR012")
 					(unit 1)
@@ -11528,7 +11528,7 @@
 			(uuid "9153da2d-b21b-4541-a924-5118e22faacd")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D75")
 					(unit 1)
@@ -11596,7 +11596,7 @@
 			(uuid "91ab6085-2f98-4a41-8be3-2cc0e37770aa")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D56")
 					(unit 1)
@@ -11664,7 +11664,7 @@
 			(uuid "774706ce-da88-4b62-a74a-85195e6ad88b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D51")
 					(unit 1)
@@ -11745,7 +11745,7 @@
 			(uuid "ed533a1c-2ffe-48e3-a591-fd581d1b8403")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "U2")
 					(unit 1)
@@ -11812,7 +11812,7 @@
 			(uuid "df477c7a-3199-4adc-a74f-d3762d0e3ff0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX33")
 					(unit 1)
@@ -11879,7 +11879,7 @@
 			(uuid "8d6bf5c6-92e6-4651-aad9-876f0057ad6a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX6")
 					(unit 1)
@@ -11946,7 +11946,7 @@
 			(uuid "01386b5a-00e9-48ab-85bb-d8c3ca373ded")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX9")
 					(unit 1)
@@ -12014,7 +12014,7 @@
 			(uuid "a6dbf660-35b1-483c-a6a2-e950e4120dc3")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D42")
 					(unit 1)
@@ -12081,7 +12081,7 @@
 			(uuid "ab23779b-ad11-49f0-9fbe-eafcc90a6c95")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX64")
 					(unit 1)
@@ -12147,7 +12147,7 @@
 			(uuid "c0066ec0-30cd-49a8-855e-43af9e8e476d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R5")
 					(unit 1)
@@ -12215,7 +12215,7 @@
 			(uuid "97555f9c-5730-4859-a8fb-00b9af3fbd4d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D47")
 					(unit 1)
@@ -12279,7 +12279,7 @@
 			(uuid "42811a9e-4a88-446d-ad59-cde96cbc6df5")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR015")
 					(unit 1)
@@ -12346,7 +12346,7 @@
 			(uuid "bbe1af3b-ca1a-454e-b0fc-d866d460d149")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX71")
 					(unit 1)
@@ -12414,7 +12414,7 @@
 			(uuid "fc915d54-fd0c-4d15-8665-14a6eec1a2d1")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D54")
 					(unit 1)
@@ -12484,7 +12484,7 @@
 			(uuid "0d1b88b9-4bf9-4475-be92-819c20bbee71")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C9")
 					(unit 1)
@@ -12616,7 +12616,7 @@
 			(uuid "62255afd-d2ac-4791-b726-bbd1cd99c242")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D29")
 					(unit 1)
@@ -12728,7 +12728,7 @@
 			(uuid "860c2184-d4c3-4f26-b0e6-ecff8cc99fc6")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "J1")
 					(unit 1)
@@ -12796,7 +12796,7 @@
 			(uuid "ce0a0c6a-b25a-4508-b601-b050ea35d2f8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D69")
 					(unit 1)
@@ -12864,7 +12864,7 @@
 			(uuid "8bb47678-bb90-4c99-9114-5bce3382f182")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D49")
 					(unit 1)
@@ -12932,7 +12932,7 @@
 			(uuid "1b6eec70-f498-4dd3-b18a-ceb454b3454f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D21")
 					(unit 1)
@@ -12999,7 +12999,7 @@
 			(uuid "2123874a-8f15-4e70-8bb1-c5c45c779a12")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX49")
 					(unit 1)
@@ -13067,7 +13067,7 @@
 			(uuid "384d5283-1cd1-476e-a0d0-c4b2e2087ee5")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D46")
 					(unit 1)
@@ -13134,7 +13134,7 @@
 			(uuid "9cbf9211-7710-4509-bab5-0892e77968d7")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX7")
 					(unit 1)
@@ -13199,7 +13199,7 @@
 			(uuid "0b884aea-f734-4ea8-ad1c-777bc11d25a0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR013")
 					(unit 1)
@@ -13266,7 +13266,7 @@
 			(uuid "3f999fe5-693b-49c6-93e5-074ad15a4808")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX55")
 					(unit 1)
@@ -13333,7 +13333,7 @@
 			(uuid "bdbbf2a4-881b-469f-a65e-b60746dc6416")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX14")
 					(unit 1)
@@ -13400,7 +13400,7 @@
 			(uuid "c1c1268f-8749-437d-adaf-d7227b2ad6fb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX35")
 					(unit 1)
@@ -13472,7 +13472,7 @@
 			(uuid "216385ab-3f21-425d-a2fa-b4c13511256c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "Y1")
 					(unit 1)
@@ -13538,7 +13538,7 @@
 			(uuid "e0754bf1-2ee2-45f2-8df9-8a7c8d9d0627")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#FLG0103")
 					(unit 1)
@@ -13606,7 +13606,7 @@
 			(uuid "8e32e83d-253d-40db-a1c4-e6ed1b59288f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D73")
 					(unit 1)
@@ -13673,7 +13673,7 @@
 			(uuid "18327c45-59c2-49f6-854a-6a8ba6d28b77")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX4")
 					(unit 1)
@@ -13742,7 +13742,7 @@
 			(uuid "8ff90793-23bb-4ee7-89f3-1ae624ccfd47")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C5")
 					(unit 1)
@@ -13807,7 +13807,7 @@
 			(uuid "9a19dc89-2247-443a-99a0-7e6135cf3fe7")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR09")
 					(unit 1)
@@ -13881,7 +13881,7 @@
 			(uuid "0d29da47-9bcc-419c-9a31-13946ff013b3")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "U3")
 					(unit 1)
@@ -14014,7 +14014,7 @@
 			(uuid "de6ab63d-8b2c-4619-9894-05ff4b897276")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX61")
 					(unit 1)
@@ -14079,7 +14079,7 @@
 			(uuid "baaaacdd-8e77-4fdc-864e-5c174f280f9e")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR0101")
 					(unit 1)
@@ -14146,7 +14146,7 @@
 			(uuid "c105dd61-35f1-4f84-bfc3-181704d48404")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX74")
 					(unit 1)
@@ -14212,7 +14212,7 @@
 			(uuid "d0958b5b-337f-4a37-bad0-71e06f1c0cc9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R4")
 					(unit 1)
@@ -14281,7 +14281,7 @@
 			(uuid "909d938a-e54c-419e-8cca-aba933e46015")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C6")
 					(unit 1)
@@ -14349,7 +14349,7 @@
 			(uuid "b0e5247e-97c2-4c38-8c4b-b6dd20452fed")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D59")
 					(unit 1)
@@ -14416,7 +14416,7 @@
 			(uuid "efc6dc37-cf84-4e3f-aa5c-cc91046363eb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX26")
 					(unit 1)
@@ -14484,7 +14484,7 @@
 			(uuid "0e9f0b4c-9631-48dd-934e-4c8a8e871e0d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D67")
 					(unit 1)
@@ -14549,7 +14549,7 @@
 			(uuid "3df02d86-fbad-416a-826f-b517bab2108d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#FLG0101")
 					(unit 1)
@@ -14617,7 +14617,7 @@
 			(uuid "80c82872-608d-425a-b84b-c0e1cc535a40")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D62")
 					(unit 1)
@@ -14685,7 +14685,7 @@
 			(uuid "65486c13-4790-42e2-a246-53adf6281528")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D65")
 					(unit 1)
@@ -14751,7 +14751,7 @@
 			(uuid "483bf1bb-bac8-4eeb-9e83-b7eb30b4d01f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR017")
 					(unit 1)
@@ -14817,7 +14817,7 @@
 			(uuid "84711236-4787-4815-8d7b-1dd305fec9bb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R3")
 					(unit 1)
@@ -14882,7 +14882,7 @@
 			(uuid "03cdb7b7-91e7-4911-abd0-5f01a5f6e49c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR04")
 					(unit 1)
@@ -14950,7 +14950,7 @@
 			(uuid "70b8b327-5779-4636-8256-284a38cd1230")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D60")
 					(unit 1)
@@ -15014,7 +15014,7 @@
 			(uuid "af5d7700-c17a-485b-abbc-bac7818d387b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR03")
 					(unit 1)
@@ -15082,7 +15082,7 @@
 			(uuid "58e992fe-57e7-480c-b526-2a087995a4ef")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D14")
 					(unit 1)
@@ -15150,7 +15150,7 @@
 			(uuid "54670245-e55f-435a-8f36-5c82f61e51e0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D4")
 					(unit 1)
@@ -15217,7 +15217,7 @@
 			(uuid "d71a4b81-a116-4952-bc79-491982cf0872")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX5")
 					(unit 1)
@@ -15285,7 +15285,7 @@
 			(uuid "ffe52660-46db-4dbc-a8be-3d93a9d6e54d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D30")
 					(unit 1)
@@ -15352,7 +15352,7 @@
 			(uuid "80dd872a-9323-41f5-bf9d-b922b5ee6707")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX32")
 					(unit 1)
@@ -15421,7 +15421,7 @@
 			(uuid "6e89352b-502c-4941-8ed4-7d6dc173d380")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C3")
 					(unit 1)
@@ -15488,7 +15488,7 @@
 			(uuid "d0e5bf5d-b0ca-43d0-bcb8-0f353b4416d9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX21")
 					(unit 1)
@@ -15556,7 +15556,7 @@
 			(uuid "623fbf14-e66a-48fb-943f-939b8469fbe0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D36")
 					(unit 1)
@@ -15623,7 +15623,7 @@
 			(uuid "2c8f127f-5789-42b0-b6f4-a4ef60fb1c96")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX30")
 					(unit 1)
@@ -15690,7 +15690,7 @@
 			(uuid "a2a9348d-809c-4161-95cd-514c83941569")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX50")
 					(unit 1)
@@ -15755,7 +15755,7 @@
 			(uuid "d99fd7a9-56af-4f2f-88fd-aeb304cd4fb6")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#FLG0102")
 					(unit 1)
@@ -15822,7 +15822,7 @@
 			(uuid "ca93ab49-7626-4ad0-9dfb-55ab3d4390d9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX18")
 					(unit 1)
@@ -15889,7 +15889,7 @@
 			(uuid "57b27457-f230-4bd8-b1b6-c6f1b39d965c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX39")
 					(unit 1)
@@ -15957,7 +15957,7 @@
 			(uuid "1fc232cc-8993-4abf-94eb-532f96640b9f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D27")
 					(unit 1)
@@ -16038,7 +16038,7 @@
 			(uuid "4b1efd13-8671-4321-bd35-fe304eb038d8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "J3")
 					(unit 1)
@@ -16169,7 +16169,7 @@
 			(uuid "1b19e832-5766-434d-aa5d-e724daebcd98")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX36")
 					(unit 1)
@@ -16236,7 +16236,7 @@
 			(uuid "0404cfcd-208f-4c25-8272-d5c9051da198")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX31")
 					(unit 1)
@@ -16307,7 +16307,7 @@
 			(uuid "2e16ee34-e81a-48f4-89d0-dbcbf91eba71")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R9")
 					(unit 1)
@@ -16375,7 +16375,7 @@
 			(uuid "f08e3c61-b7a5-4455-aceb-eaa704bf1a0a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D55")
 					(unit 1)
@@ -16442,7 +16442,7 @@
 			(uuid "8470687e-5010-4592-a487-4a6210d3d669")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX44")
 					(unit 1)
@@ -16509,7 +16509,7 @@
 			(uuid "116b7fa2-3a59-4fad-9f67-d60a4745887f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX73")
 					(unit 1)
@@ -16572,7 +16572,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "H4")
 					(unit 1)
@@ -16640,7 +16640,7 @@
 			(uuid "3bb8537e-620d-4bb4-ba3d-7f2ce4db38e3")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D1")
 					(unit 1)
@@ -16707,7 +16707,7 @@
 			(uuid "879c4f19-baa4-4e33-b5fd-52b19a5ce353")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX43")
 					(unit 1)
@@ -16774,7 +16774,7 @@
 			(uuid "2a23567d-6af3-4c02-ba33-03a19e65c289")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX27")
 					(unit 1)
@@ -16841,7 +16841,7 @@
 			(uuid "27ca2d3e-03fc-4170-b720-86935a126764")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "SW1")
 					(unit 1)
@@ -16909,7 +16909,7 @@
 			(uuid "17ced318-fa26-4301-9506-c7d555152a58")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D63")
 					(unit 1)
@@ -16976,7 +16976,7 @@
 			(uuid "c97cf30c-1aca-44a4-aa50-7c8abcc704d7")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX10")
 					(unit 1)
@@ -17043,7 +17043,7 @@
 			(uuid "ba3d17a5-5fb6-40ef-a7aa-ce0209a7102e")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX57")
 					(unit 1)
@@ -17111,7 +17111,7 @@
 			(uuid "8b67ce97-601f-400f-bfe9-dc553819fa01")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D74")
 					(unit 1)
@@ -17179,7 +17179,7 @@
 			(uuid "0c4960eb-197a-4275-b2f0-4ec1c4adc886")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D31")
 					(unit 1)
@@ -17244,7 +17244,7 @@
 			(uuid "cd2d839b-4540-4946-82e9-5f5c3dc1e97e")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR016")
 					(unit 1)
@@ -17315,7 +17315,7 @@
 			(uuid "62d150fd-d9fd-4c4e-a7e7-55e34a2fe0cf")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "U6")
 					(unit 1)
@@ -17452,7 +17452,7 @@
 			(uuid "717105e5-7e23-46d6-88cc-3086fcc5375d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D32")
 					(unit 1)
@@ -17520,7 +17520,7 @@
 			(uuid "1c771fd0-ea80-45a9-b8d1-56adf57eee9c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D34")
 					(unit 1)
@@ -17588,7 +17588,7 @@
 			(uuid "464c3450-4c1a-4f19-9a57-71ddbc5f7708")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D13")
 					(unit 1)
@@ -17656,7 +17656,7 @@
 			(uuid "e74de43d-4268-4e11-9730-5779303220a8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D3")
 					(unit 1)
@@ -17725,7 +17725,7 @@
 			(uuid "ec36fe50-c257-4ed2-a077-6fef1b248e0a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C7")
 					(unit 1)
@@ -17791,7 +17791,7 @@
 			(uuid "f1a6b528-1e62-4142-95a1-ba83189ced5c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R6")
 					(unit 1)
@@ -17859,7 +17859,7 @@
 			(uuid "1c26af04-1ba3-452b-a30d-1903459cc20a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D71")
 					(unit 1)
@@ -17927,7 +17927,7 @@
 			(uuid "8b2918d0-73f9-4033-9905-f4df5b5780d0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D43")
 					(unit 1)
@@ -17995,7 +17995,7 @@
 			(uuid "8af4515b-f36b-4475-9b54-13cc743173a9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D41")
 					(unit 1)
@@ -18062,7 +18062,7 @@
 			(uuid "2ed1473f-11ef-4654-a045-2fe8c5c54d7c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX69")
 					(unit 1)
@@ -18129,7 +18129,7 @@
 			(uuid "5e73cc24-0be5-4516-a318-99a29689ceaa")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX75")
 					(unit 1)
@@ -18328,7 +18328,7 @@
 			(uuid "087502cc-3025-4812-b2f0-200692c427e3")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "U1")
 					(unit 1)
@@ -18396,7 +18396,7 @@
 			(uuid "c6915c34-c810-49a3-bb05-dce3b5b3054f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D25")
 					(unit 1)
@@ -18464,7 +18464,7 @@
 			(uuid "b9291d58-8a30-4a61-96c3-cb97f53f2edb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D9")
 					(unit 1)
@@ -18531,7 +18531,7 @@
 			(uuid "70ac55c7-9242-49d0-9eb1-333edf9898c2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX51")
 					(unit 1)
@@ -18599,7 +18599,7 @@
 			(uuid "33ea1420-100d-42ac-9794-f168fb8fb2a5")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D58")
 					(unit 1)
@@ -18667,7 +18667,7 @@
 			(uuid "d81a8832-64fa-4751-ad78-278e092e5d29")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D17")
 					(unit 1)
@@ -18736,7 +18736,7 @@
 			(uuid "3d82b4d2-3b73-4358-b70a-34ab1376b076")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C4")
 					(unit 1)
@@ -18804,7 +18804,7 @@
 			(uuid "639ab41e-0ffb-4bac-8245-b115c05794da")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D50")
 					(unit 1)
@@ -18869,7 +18869,7 @@
 			(uuid "23f09831-bc01-43a3-ab06-ff7c176487bd")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR011")
 					(unit 1)
@@ -19001,7 +19001,7 @@
 			(uuid "f78ecb97-8217-44d0-bb23-3733c9c92469")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D44")
 					(unit 1)
@@ -19069,7 +19069,7 @@
 			(uuid "4e74adce-369d-4bbe-9b9a-132b2ba1cec0")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D53")
 					(unit 1)
@@ -19137,7 +19137,7 @@
 			(uuid "5894788d-c7e2-4ac4-9efe-abe32f6ff70f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D48")
 					(unit 1)
@@ -19202,7 +19202,7 @@
 			(uuid "1ec6c894-8c72-482d-9a5d-c81828445128")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR018")
 					(unit 1)
@@ -19269,7 +19269,7 @@
 			(uuid "fac7dd1c-ddbd-44a0-894d-c56efe9cfeba")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX72")
 					(unit 1)
@@ -19336,7 +19336,7 @@
 			(uuid "bd9b9c3e-f293-479a-9136-c1b3d287d7b2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX67")
 					(unit 1)
@@ -19404,7 +19404,7 @@
 			(uuid "9514cec0-94d3-49e1-bc8a-cb28216ffca8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D37")
 					(unit 1)
@@ -19468,7 +19468,7 @@
 			(uuid "d0f84dff-5cc6-4380-9e10-ebe093ae9544")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR010")
 					(unit 1)
@@ -19535,7 +19535,7 @@
 			(uuid "88121114-6539-43aa-ae91-4d0c77b81a32")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX47")
 					(unit 1)
@@ -19602,7 +19602,7 @@
 			(uuid "75d8451d-147c-44f0-bfaf-923eaf50a276")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX13")
 					(unit 1)
@@ -19669,7 +19669,7 @@
 			(uuid "72feec34-5ad9-4547-be50-4e8b2fe3fbdf")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX3")
 					(unit 1)
@@ -19733,7 +19733,7 @@
 			(uuid "f5a4120c-c0ea-4c49-911b-bebf25aa1047")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR05")
 					(unit 1)
@@ -19801,7 +19801,7 @@
 			(uuid "1ce9ca8a-983a-405e-a3cd-438551e8238b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D64")
 					(unit 1)
@@ -19869,7 +19869,7 @@
 			(uuid "1534d346-99c9-4e5c-b733-eaa13415fa04")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D16")
 					(unit 1)
@@ -19937,7 +19937,7 @@
 			(uuid "93a47126-d99c-4bbe-8f08-c83ddf4d04fe")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D24")
 					(unit 1)
@@ -20005,7 +20005,7 @@
 			(uuid "7d4f8dd1-af70-4f9e-a707-5b62112ba3b8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D39")
 					(unit 1)
@@ -20068,7 +20068,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "H3")
 					(unit 1)
@@ -20135,7 +20135,7 @@
 			(uuid "4943d049-0bbd-4d5a-a72e-a8a3cd32dc3b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX48")
 					(unit 1)
@@ -20202,7 +20202,7 @@
 			(uuid "d4a9ae5d-d352-46d8-884c-37a2c3e9c3fb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX1")
 					(unit 1)
@@ -20265,7 +20265,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "H2")
 					(unit 1)
@@ -20332,7 +20332,7 @@
 			(uuid "c093a422-1e43-4bbf-802b-ad692ba94ae5")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX37")
 					(unit 1)
@@ -20395,7 +20395,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "H1")
 					(unit 1)
@@ -20462,7 +20462,7 @@
 			(uuid "8788f458-5938-4ce8-a229-d85f5a45b580")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R2")
 					(unit 1)
@@ -20529,7 +20529,7 @@
 			(uuid "6720e9d5-4568-41f2-b2d4-fab9200f0721")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX53")
 					(unit 1)
@@ -20596,7 +20596,7 @@
 			(uuid "77d41067-0cb7-47a4-a8d9-6da25375f641")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX17")
 					(unit 1)
@@ -20727,7 +20727,7 @@
 			(uuid "8ba33abf-b46c-43d8-a2d2-5da0c190883c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX68")
 					(unit 1)
@@ -20794,7 +20794,7 @@
 			(uuid "6e122846-fece-465b-9311-730b61013c6c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX58")
 					(unit 1)
@@ -20929,7 +20929,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "S1")
 					(unit 1)
@@ -20996,7 +20996,7 @@
 			(uuid "1b613a4a-6587-4fbc-b7e2-0cf00b4db68f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX20")
 					(unit 1)
@@ -21064,7 +21064,7 @@
 			(uuid "cacd8ee1-70a2-43ed-8283-6d37c687069b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D12")
 					(unit 1)
@@ -21196,7 +21196,7 @@
 			(uuid "c3acaf35-2cb1-4d90-92c5-c5a2f9ed85b7")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX62")
 					(unit 1)
@@ -21264,7 +21264,7 @@
 			(uuid "ec87d511-e431-40d6-af51-b754094c57f4")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D72")
 					(unit 1)
@@ -21331,7 +21331,7 @@
 			(uuid "7f426c57-6723-45db-b86d-274480822094")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX59")
 					(unit 1)
@@ -21399,7 +21399,7 @@
 			(uuid "ff33924d-350f-4c62-9e5a-e27ff5e169a2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D20")
 					(unit 1)
@@ -21464,7 +21464,7 @@
 			(uuid "a509ed8b-df6e-4354-b501-b3ab38502bf3")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR08")
 					(unit 1)
@@ -21531,7 +21531,7 @@
 			(uuid "6485ce95-a1f1-44bc-81b6-1f24fe35f1e1")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX16")
 					(unit 1)
@@ -21598,7 +21598,7 @@
 			(uuid "0aa77eaa-c71f-4e77-9bab-c141a53da5a7")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX8")
 					(unit 1)
@@ -21665,7 +21665,7 @@
 			(uuid "5e2f6866-9c27-4367-9eda-9907d2b5fe5b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX41")
 					(unit 1)
@@ -21732,7 +21732,7 @@
 			(uuid "f177b198-e73c-41d7-9e63-836f8b7f5052")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX28")
 					(unit 1)
@@ -21871,7 +21871,7 @@
 			(uuid "ae0ba424-3d9a-4958-af10-29f38281a0bb")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D57")
 					(unit 1)
@@ -21937,7 +21937,7 @@
 			(uuid "afb8c960-e9c0-4853-aa9b-e3f4e5d2bc64")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C2")
 					(unit 1)
@@ -22005,7 +22005,7 @@
 			(uuid "caa5ce14-f695-4f18-8491-676359d953c9")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D33")
 					(unit 1)
@@ -22073,7 +22073,7 @@
 			(uuid "4c27e97e-66ff-4d5d-ae0b-39bc6c254f12")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D6")
 					(unit 1)
@@ -22138,7 +22138,7 @@
 			(uuid "ccd434bb-0188-4fa1-99fe-b4c368b14e6f")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR019")
 					(unit 1)
@@ -22203,7 +22203,7 @@
 			(uuid "d5b13c5e-948f-4e09-97af-1624d52170c8")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR02")
 					(unit 1)
@@ -22272,7 +22272,7 @@
 			(uuid "bc6f715c-5ffb-4104-a60f-6f2769335c09")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "R1")
 					(unit 1)
@@ -22339,7 +22339,7 @@
 			(uuid "670e41b5-6dab-41d5-bf81-1388a3f812ae")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX15")
 					(unit 1)
@@ -22407,7 +22407,7 @@
 			(uuid "1400585b-9fdc-4de2-8dfe-6a16df00ec09")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D8")
 					(unit 1)
@@ -22475,7 +22475,7 @@
 			(uuid "e0341938-1376-4f8b-a2fd-c42e1a18a491")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D52")
 					(unit 1)
@@ -22543,7 +22543,7 @@
 			(uuid "acab18d3-cb59-45e0-8eb5-25ec3cfc7872")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D28")
 					(unit 1)
@@ -22610,7 +22610,7 @@
 			(uuid "87ee27f8-5d9c-4ae2-862c-f0bd3c4104da")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX56")
 					(unit 1)
@@ -22674,7 +22674,7 @@
 			(uuid "49d7fa40-d66e-4bd0-b5f0-461665558d3d")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR01")
 					(unit 1)
@@ -22741,7 +22741,7 @@
 			(uuid "52528bf6-97d9-4509-988c-cc872a9e7046")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX24")
 					(unit 1)
@@ -22808,7 +22808,7 @@
 			(uuid "20572ced-e44d-4379-b3ec-57b3ab7f4dfd")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX42")
 					(unit 1)
@@ -22875,7 +22875,7 @@
 			(uuid "a90da5e1-b7e1-4119-bd49-0f8e69c2f131")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX60")
 					(unit 1)
@@ -22940,7 +22940,7 @@
 			(uuid "256d19cc-d3e0-46b9-82c0-cb271099b4cc")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR014")
 					(unit 1)
@@ -23008,7 +23008,7 @@
 			(uuid "5862cd12-1d46-4884-b071-d31dfbfac783")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D10")
 					(unit 1)
@@ -23075,7 +23075,7 @@
 			(uuid "dac6ac38-4730-468a-8f2e-093f81c04287")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX46")
 					(unit 1)
@@ -23143,7 +23143,7 @@
 			(uuid "2656335d-49f0-4503-8613-9d51b96d6d1c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D45")
 					(unit 1)
@@ -23210,7 +23210,7 @@
 			(uuid "200dccf0-3dd4-49ed-b8b3-f5f011ada23a")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX40")
 					(unit 1)
@@ -23277,7 +23277,7 @@
 			(uuid "a39e87ec-8aa6-4887-8b40-997db51c68a4")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX65")
 					(unit 1)
@@ -23375,7 +23375,7 @@
 			(uuid "d80d9b70-5a09-44a0-b256-9e30dbd09040")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "U4")
 					(unit 1)
@@ -23444,7 +23444,7 @@
 			(uuid "06362abc-4146-4dc8-887d-7fb162e90629")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "C8")
 					(unit 1)
@@ -23511,7 +23511,7 @@
 			(uuid "69eea945-204c-42b6-9003-8d0b4e1896e2")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX34")
 					(unit 1)
@@ -23579,7 +23579,7 @@
 			(uuid "ce9405b9-f324-4eaf-825e-1bc5f0ec1fbe")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D7")
 					(unit 1)
@@ -23643,7 +23643,7 @@
 			(uuid "eab18133-7b31-4451-a44a-c5538ceb2aaf")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "#PWR0102")
 					(unit 1)
@@ -23710,7 +23710,7 @@
 			(uuid "dc954ab2-dd87-46ec-a515-e186f84a170b")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX63")
 					(unit 1)
@@ -23777,7 +23777,7 @@
 			(uuid "ef0da807-0248-4fb7-8860-9f6b35149700")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX11")
 					(unit 1)
@@ -23844,7 +23844,7 @@
 			(uuid "39b214b6-c973-4af6-98f0-01a61d9c14d1")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "MX29")
 					(unit 1)
@@ -23912,7 +23912,7 @@
 			(uuid "72bb779b-61e9-43ac-a215-4459085bfa83")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D61")
 					(unit 1)
@@ -23980,7 +23980,7 @@
 			(uuid "1eb760af-bebe-4523-925a-e34936051465")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D2")
 					(unit 1)
@@ -24048,7 +24048,7 @@
 			(uuid "9636d2c8-c057-4e01-b8b2-90860144fc0c")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D68")
 					(unit 1)
@@ -24116,7 +24116,7 @@
 			(uuid "4efc5f41-f860-4f71-b787-bc38228376dc")
 		)
 		(instances
-			(project ""
+			(project "keyboard-template-60"
 				(path "/b3baaebd-c99d-4218-99ba-d40a73031965"
 					(reference "D19")
 					(unit 1)
