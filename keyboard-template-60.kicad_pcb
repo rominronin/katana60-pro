@@ -303,7 +303,7 @@
 		(path "/9b6a54c7-74f8-435a-acb5-acd05fb6f3c4")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 66.675 -9.525)
 			(end 66.675 9.525)
@@ -715,7 +715,7 @@
 		(path "/c5821e61-723a-44af-8ea5-01adba10ca2e")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 19.05 -9.525)
 			(end 19.05 9.525)
@@ -1128,7 +1128,7 @@
 		(path "/7eb15e8d-fc12-4b0f-9888-917883d3d39c")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.5 0)
@@ -1227,7 +1227,7 @@
 		(path "/bba612f2-e838-4991-a0be-649ede51422b")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.5 0)
@@ -1326,7 +1326,7 @@
 		(path "/bcbf2415-a109-4d9c-9e0e-e4b0a2c96713")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.5 0)
@@ -1689,7 +1689,7 @@
 		(path "/b8b63b67-2a0b-44ac-8bc9-f3859386a147")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.5 0)
@@ -1787,7 +1787,7 @@
 		(path "/36a26aa5-76ed-4d4f-9743-b6c06613ec06")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 19.05 -9.525)
 			(end 19.05 9.525)
@@ -33126,7 +33126,7 @@
 		(path "/4983cb32-a082-46b3-b5e9-8b0e51122599")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_rect
 			(start -11.5 2.8)
 			(end 11.5 -2.8)
@@ -35944,7 +35944,7 @@
 		(path "/777de625-89f8-4e2e-9121-2fba386d4e70")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.27 0)
 			(end -1.27 1.27)
@@ -41666,6 +41666,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C51901462"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "96b2a944-ad4d-4220-ac3a-3738431eaa3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -60668,7 +60680,7 @@
 		(path "/f585672f-67ed-4f0e-a191-b00d94a392c6")
 		(sheetname "/")
 		(sheetfile "keyboard-template-60.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_rect
 			(start -11.5 7)
 			(end 11.5 -7)
