@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,22pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,102.5,-115.5,0.0,bottom
-C10,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,98.0,-99.5,0.0,bottom
-C11,22uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,98.0,-97.5,0.0,bottom
+C10,10uF,CP_EIA-1608-08_AVX-J,98.0,-99.5,180.0,bottom
+C11,22uF,CP_EIA-1608-08_AVX-J,98.0,-97.5,180.0,bottom
 C2,22pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,102.5,-113.5,0.0,bottom
 C3,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,88.9,-104.378125,0.0,bottom
 C4,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,93.0,-112.5,180.0,bottom
