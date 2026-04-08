@@ -708,16 +708,16 @@
       {
         "filename": "keyboard-template-60.kicad_sch",
         "name": "keyboard-template-60",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "b3baaebd-c99d-4218-99ba-d40a73031965"
       }
     ],
-    "used_designators": "J4-5",
+    "used_designators": "H5-6,J4-5",
     "variants": []
   },
   "sheets": [
     [
       "b3baaebd-c99d-4218-99ba-d40a73031965",
-      "Root"
+      "keyboard-template-60"
     ]
   ],
   "text_variables": {},
